@@ -1,5 +1,5 @@
 - 🏅 I'm national certified senior system architect (China)
-- 🌟 I'm contributing to [ReactOS](https://github.com/reactos/reactos) and [Microsoft Docs](https://github.com/MicrosoftDocs)
+- 🌟 I'm contributing to [ReactOS](https://github.com/reactos/reactos) and fix mistakes in [Microsoft Docs](https://github.com/MicrosoftDocs)
 - 🦄 I'm focusing on:
     - Windows NT security technologies like hook/anti-hook, shellcode/anti-shellcode, reverse/anti-reverse, cheat/anti-cheat, ...
     - Enterprise security, such as EDR, DLP, ZTNA, ...
